@@ -1,46 +1,75 @@
-## Hi there, I'm Prajeen! 👋
-### Software Developer | Backend Specialist | Aspiring Fullstack Developer
+<samp>prajeen ravandai govardhanam — sde-1 platform @ oracle · india</samp>
 
-#### About Me
-- 🔭 Currently, I specialize in backend development using Java, Go, and Rust, focusing on highly distributed microservices interconnected via Kafka event streaming.
-- 🌱 I'm keen on transitioning into a fullstack developer role, particularly interested in mastering NextJS, SolidJS and Svelte, alongside leveraging modern CSS frameworks such as TailwindCSS and UnoCSS.
-- ⚡ I'm enthusiastic about exploring edge computing and diving into Deno with tools like Supabase and Deno Deploy.
-- 🛠️ Occasionally, I delve into cloud platforms like AWS, GCP, and OCI, applying Infrastructure as Code (IaaC) principles using Terraform and Pulumi.
+### distributed systems. perf. ai-native platforms.
 
-#### Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+I build multi-tenant, cloud-native facades on OCI — hybrid RAG with ACL-filtered citations, cache-backed JDBC repos (**P99 −60%**, 40% queries migrated), and cross-region observability that actually traces. Java / Go / Python, Kafka, Coherence, K8s. I turn Pekko into HttpKit and Jenkins into Helm without the on-call pages.
 
-#### Frameworks
-![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
-![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![UnoCSS](https://img.shields.io/badge/unocss-333333.svg?style=for-the-badge&logo=unocss&logoColor=white)
+- → currently: platform team @ **Oracle** — object storage facade (OCI Buckets + S3), zero-downtime global rollouts, Istio + OCI APM
+- → before: SDE Intern @ Oracle — killed a cross-instance race corrupting data banks, shipped **−70% CI turnaround**
+- → after hours: AI products end-to-end — anonymize → reformat → ship PDFs, single-binary test-data generators, provider-agnostic APIs
 
-#### Technologies & Tools
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
-![Deno](https://img.shields.io/badge/deno-000000?style=for-the-badge&logo=deno&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pulumi](https://img.shields.io/badge/Pulumi-663399?style=for-the-badge&logo=pulumi&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+---
 
-#### Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+#### now
 
-#### 📫 Connect with Me
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/rgprajeen)
-[<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">](https://x.com/rgprajeen)
-[<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">](https://discord.com/users/855101098742513705)
-[<img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">](https://prajeen.com)
-[<img src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:p@prajeen.com)
+```ts
+const prajeen = {
+  role: "SDE-1 — Platform @ Oracle",
+  focus: ["distributed systems", "microservices", "RAG / vector search"],
+  obsession: "P99, cache consistency, clean traces",
+  location: "India",
+  site: "https://prajeen.com",
+  askMeAbout: ["cache-backed repos", "hybrid retrieval", "K8s on OCI", "Pekko → HttpKit"],
+};
+```
+
+#### stack
+
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,go,rust,py,ts,nextjs,tailwind,kafka,kubernetes,docker,postgres,redis,aws,gcp&perline=7" /></a>
+</p>
+
+```
+languages  ·  Java · Go · Python · Rust · TypeScript · SQL
+backend    ·  Spring Boot · Pekko · Echo · FastAPI · Kafka · Coherence · Redis
+platform   ·  Kubernetes · Helm · Docker · Istio · CI/CD (Jenkins → Helm)
+cloud      ·  OCI · AWS · GCP · Vercel
+observ.    ·  OpenTelemetry · OCI APM · Metrics Explorer
+ai         ·  RAG · LangChain · LangGraph · Vector Search · OpenAI SDK
+```
+
+#### selected builds
+
+|  | project | what it is |
+|---|---|---|
+| **featured** | **[ats-ai](https://ats-ai-challenge.vercel.app)** · [code](https://github.com/rgprajeen/ats-ai) | Next.js CV anonymizer — strips PII, reformats to one clean layout, multi-step LLM refinement (LangChain/LangGraph, structured outputs), rich-text edit → PDF. `Next.js · shadcn/ui · OpenAI` |
+|  | **[objekt](https://github.com/rgprajeen/objekt)** | Unified Echo/Go facade over multi-cloud object storage — one REST API for S3 + OCI Buckets. `Go · Echo · AWS SDK v2 · Pulumi · Postgres` · MPL-2.0 |
+|  | **[dough](https://github.com/rgprajeen/dough)** | Rust CLI TFG — generates test files (txt → mp4) as a single binary for media pipeline QA. `Rust · libwebp` |
+
+> full list → [github.com/rgprajeen?tab=repositories](https://github.com/rgprajeen?tab=repositories) · live site → [prajeen.com](https://prajeen.com)
+
+#### beyond the commit
+
+- B.E. Electronics & Communication — **Madras Institute of Technology, Anna University — 9.32/10**
+- design taste: Geist Mono, 860px, glass/mesh/bento, zero-JS by default, `Ctrl+P` should still look perfect
+- toolchain: `Astro · pnpm · Tailwind 4 · Pulumi · pgx`
+
+---
+
+#### connect
+
+<a href="https://prajeen.com"><img src="https://img.shields.io/badge/prajeen.com-000000?style=flat-square&logo=firefoxbrowser&logoColor=white" /></a>
+<a href="https://linkedin.com/in/rgprajeen"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/rgprajeen"><img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="mailto:prajeenrg@gmail.com"><img src="https://img.shields.io/badge/mail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://x.com/rgprajeen"><img src="https://img.shields.io/badge/x-000000?style=flat-square&logo=x&logoColor=white" /></a>
+
+<sub>if you made it here — open an issue, or just ping me. I like perf puzzles and clean APIs.</sub>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rgprajeen&label=visits&color=000000&style=flat-square" alt="visits" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/made%20with-%E2%99%A5%20and%20p99-black?style=flat-square" alt="made with p99" />
+</p>
