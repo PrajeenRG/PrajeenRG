@@ -1,8 +1,10 @@
 <samp>prajeen ravandai govardhanam — sde-1 platform @ oracle · india</samp>
 
+> making caches honest & P99s fall (−60%) — hybrid RAG & K8s facades
+
 ### distributed systems. perf. ai-native platforms.
 
-I build multi-tenant, cloud-native facades on OCI — hybrid RAG with ACL-filtered citations, cache-backed JDBC repos (**P99 −60%**, 40% queries migrated), and cross-region observability that actually traces. Java / Go / Python, Kafka, Coherence, K8s. I turn Pekko into HttpKit and Jenkins into Helm without the on-call pages.
+I build multi-tenant, cloud-native facades on OCI — **making caches honest & P99s fall (−60%)** with hybrid RAG (ACL-filtered citations), cache-backed JDBC repos (40% queries migrated), and cross-region observability that actually traces. Java / Go / Python, Kafka, Coherence, K8s. I turn Pekko into HttpKit and Jenkins into Helm without the on-call pages.
 
 - → currently: platform team @ **Oracle** — object storage facade (OCI Buckets + S3), zero-downtime global rollouts, Istio + OCI APM
 - → before: SDE Intern @ Oracle — killed a cross-instance race corrupting data banks, shipped **−70% CI turnaround**
